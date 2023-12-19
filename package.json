@@ -1,6 +1,6 @@
 {
-  "name": "react-native-qrcode-svg",
-  "version": "6.2.0",
+  "name": "@react-native-oh-tpl/react-native-qrcode-svg",
+  "version": "6.2.0-0.0.0",
   "description": "A QR Code generator for React Native based on react-native-svg and javascript-qrcode.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -26,9 +26,13 @@
       "example/"
     ]
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/awesomejerry/react-native-qrcode-svg.git"
+    "url": "https://github.com/react-native-oh-library/react-native-qrcode-svg.git"
   },
   "keywords": [
     "react-native",
