@@ -4,6 +4,11 @@
   "description": "A QR Code generator for React Native based on react-native-svg and javascript-qrcode.",
   "main": "index.js",
   "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "harmony"
+  ],
   "scripts": {
     "lint": "standard 'src/**/*.js'",
     "lint:fix": "standard 'src/**/*.js' --fix",

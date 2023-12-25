@@ -1,1 +1,1 @@
-export { default } from './src/index.js'
+export { default } from 'react-native-qrcode-svg/src/index.js'
