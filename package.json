@@ -40,7 +40,7 @@
   "peerDependencies": {
     "react-native": ">=0.63.4",
     "react": "*",
-    "@react-native-oh-tpl/react-native-svg": ">= 13.14.0-0.0.3"
+    "@react-native-oh-tpl/react-native-svg": "^13.14.0-0.0.3"
   },
   "dependencies": {
     "prop-types": "^15.8.0",
