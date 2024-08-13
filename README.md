@@ -1,3 +1,11 @@
+该仓库已经废弃，使用该库直接参考原库使用方式即可：https://github.com/awesomejerry/react-native-qrcode-svg
+
+文档链接：https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-qrcode-svg.md
+
+This repository is deprecated! Please use react-native-qrcode-svg instead.
+
+doc: https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-qrcode-svg.md
+
 # Looking for maintainers
 I'm not working on any React Native projects anymore. Feel free to take over this project if you feel good about it!
 
